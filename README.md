@@ -6,7 +6,7 @@
 custom_mark10
   digraph G {
     node [shape=box,style=filled,color="gray90"];
-    QA -> fileuploader;
+    [QA|https://github.com/openmicroscopy/qa/pull/50] -> fileuploader;
     HCA_prototype -> pylibrary;
     webimport -> fileuploader;
     webimport -> pylibrary;

@@ -1,6 +1,6 @@
 # import
 
-![import roadmap](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2Fjoshmoore%2Fplayground%2Fmaster%2FREADME.md)
+![import roadmap](https://g.gravizo.com/source/svg/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2Fjoshmoore%2Fplayground%2Fmaster%2FREADME.md)
 <details> 
 <summary></summary>
 custom_mark10
